@@ -3,7 +3,7 @@ package grpc_lb
 import (
 	"context"
 	"fmt"
-	"github.com/IrineSistiana/simple-tls/core/grpc_tunnel"
+	"github.com/chunqian/simple-tls/core/grpc_tunnel"
 	"go.uber.org/zap"
 	"google.golang.org/grpc"
 	"google.golang.org/grpc/connectivity"

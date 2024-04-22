@@ -1,4 +1,4 @@
-module github.com/IrineSistiana/simple-tls
+module github.com/chunqian/simple-tls
 
 go 1.18
 

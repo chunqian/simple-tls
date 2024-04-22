@@ -113,7 +113,7 @@ sslocal -c config.json --plugin simple-tls --plugin-opts "n=your.server.certific
 
 simple-tls-android 是 [shadowsocks-android](https://github.com/shadowsocks/shadowsocks-android) 的带 GUI 的插件。目前随 simple-tls 一起发布。可从 release 界面下载全平台通用的 apk。
 
-simple-tls-android 的源代码在 [这里](https://github.com/IrineSistiana/simple-tls-android) 。
+simple-tls-android 的源代码在 [这里](https://github.com/chunqian/simple-tls-android) 。
 
 ### Beta 版本
 

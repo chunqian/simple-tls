@@ -1,8 +1,8 @@
 package ctunnel
 
 import (
-	"github.com/IrineSistiana/simple-tls/core/alloc"
-	"github.com/IrineSistiana/simple-tls/core/utils"
+	"github.com/chunqian/simple-tls/core/alloc"
+	"github.com/chunqian/simple-tls/core/utils"
 	"io"
 	"math/rand"
 	"net"

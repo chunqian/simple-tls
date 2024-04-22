@@ -2,8 +2,8 @@ package grpc_lb
 
 import (
 	"bytes"
-	"github.com/IrineSistiana/simple-tls/core/alloc"
-	"github.com/IrineSistiana/simple-tls/core/grpc_tunnel"
+	"github.com/chunqian/simple-tls/core/alloc"
+	"github.com/chunqian/simple-tls/core/grpc_tunnel"
 	"google.golang.org/grpc/peer"
 	"io"
 	"net"

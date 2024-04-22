@@ -21,8 +21,8 @@ import (
 	"context"
 	"crypto/tls"
 	"fmt"
-	"github.com/IrineSistiana/simple-tls/core/ctunnel"
-	"github.com/IrineSistiana/simple-tls/core/mlog"
+	"github.com/chunqian/simple-tls/core/ctunnel"
+	"github.com/chunqian/simple-tls/core/mlog"
 	"net"
 	"time"
 )

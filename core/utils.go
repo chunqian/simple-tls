@@ -26,7 +26,7 @@ import (
 	"encoding/pem"
 	"errors"
 	"fmt"
-	"github.com/IrineSistiana/simple-tls/core/mlog"
+	"github.com/chunqian/simple-tls/core/mlog"
 	"math/big"
 	mathRand "math/rand"
 	"os"

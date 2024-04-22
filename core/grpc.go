@@ -1,8 +1,8 @@
 package core
 
 import (
-	"github.com/IrineSistiana/simple-tls/core/grpc_lb"
-	"github.com/IrineSistiana/simple-tls/core/grpc_tunnel"
+	"github.com/chunqian/simple-tls/core/grpc_lb"
+	"github.com/chunqian/simple-tls/core/grpc_tunnel"
 	"google.golang.org/grpc/codes"
 	"google.golang.org/grpc/status"
 )

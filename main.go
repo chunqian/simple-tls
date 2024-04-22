@@ -23,7 +23,7 @@ import (
 	"encoding/pem"
 	"flag"
 	"fmt"
-	"github.com/IrineSistiana/simple-tls/core/mlog"
+	"github.com/chunqian/simple-tls/core/mlog"
 	"go.uber.org/zap"
 	"go.uber.org/zap/zapcore"
 	"os"
@@ -35,10 +35,10 @@ import (
 	"syscall"
 	"time"
 
-	"github.com/IrineSistiana/simple-tls/core"
+	"github.com/chunqian/simple-tls/core"
 )
 
-var version = "unknown/dev"
+var version = "0.8.0"
 
 var logger = mlog.L()
 
